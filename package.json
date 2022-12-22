@@ -1,0 +1,12 @@
+{
+  "name": "base91-js",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/base91.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["base91", "encoding"],
+  "author": "rfl890",
+  "license": "MIT"
+}
