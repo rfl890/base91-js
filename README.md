@@ -5,7 +5,7 @@
 ## Browser
 Include this script tag in your `<head>`:
 ```html
-<script src="https://cdn.jsdelivr.net/npm/base91-js@1.0.3/dist/base91.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/base91-js@1.0.4/dist/base91.min.js"></script>
 ```
 ## Node, AMD (RequireJS)
 ```js
