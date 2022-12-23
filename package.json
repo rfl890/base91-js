@@ -1,6 +1,6 @@
 {
     "name": "base91-js",
-    "version": "1.0.6",
+    "version": "1.0.8",
     "description": "basE91 encoding for the browser and Node.js",
     "main": "dist/base91.min.js",
     "scripts": {
