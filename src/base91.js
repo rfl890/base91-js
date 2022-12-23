@@ -118,16 +118,6 @@
             create: base91_createEncode,
         };
         return;
-    } else if (typeof define === "function" && define.amd) {
-        // AMD
-        define("base91-js", function () {
-            return {
-                encode: base91_encode,
-                decode: base91_decode,
-                create: base91_createEncode,
-            };
-        });
-        return;
     } else if (typeof window !== "undefined") {
         // Script tag
         window.base91 = {
