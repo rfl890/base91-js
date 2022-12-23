@@ -120,7 +120,7 @@
         return;
     } else if (typeof define === "function" && define.amd) {
         // AMD
-        define(["base91-js"], function () {
+        define("base91-js", function () {
             return {
                 encode: base91_encode,
                 decode: base91_decode,
