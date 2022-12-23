@@ -1,5 +1,5 @@
 # base91-js   
-[basE91](https://base91.sourceforge.net/) encoding for the browser. Ported from the base91 PHP code.   
+[basE91](https://base91.sourceforge.net/) encoding in JavaScript. Ported from the base91 PHP code.   
 
 ## Usage
 ## Browser
