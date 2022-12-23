@@ -5,9 +5,9 @@
 ## Browser
 Include this script tag in your `<head>`:
 ```html
-<script src="https://cdn.jsdelivr.net/npm/base91-js@1.0.4/dist/base91.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/base91-js@1.0.5/dist/base91.min.js"></script>
 ```
-## Node, AMD (RequireJS)
+## Node
 ```js
 const {
     encode,
@@ -18,6 +18,10 @@ const {
 or
 const base91 = require("base91-js");
 */
+```
+## AMD (requirejs)
+```js
+const base91 = require(["base91"]);
 ```
 ### To encode:
 ```javascript
