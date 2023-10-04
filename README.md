@@ -1,3 +1,4 @@
+this library sucks
 # base91-js   
 [basE91](https://base91.sourceforge.net/) encoding in JavaScript. Ported from the base91 PHP code.   
 
